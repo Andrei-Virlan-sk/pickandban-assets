@@ -1,0 +1,207 @@
+{
+  "teams": [
+    {
+      "id": "t_1781041861253",
+      "name": "8BIT",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/8bit.png",
+      "color": "#1a73e8"
+    },
+    {
+      "id": "t_1781041876126",
+      "name": "ADAM",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/ADAM.png",
+      "color": "#0ba800"
+    },
+    {
+      "id": "t_1781041898331",
+      "name": "8BITX",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/8bitx.png",
+      "color": "#0038a8"
+    },
+    {
+      "id": "t_1781041936231",
+      "name": "CEAU",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/CEAU.png",
+      "color": "#002570"
+    },
+    {
+      "id": "t_1781041947754",
+      "name": "GHOST",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/GHOST.png",
+      "color": "#ffffff"
+    },
+    {
+      "id": "t_1781042107372",
+      "name": "HMB",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/HMB.png",
+      "color": "#de9411"
+    },
+    {
+      "id": "t_1781042150784",
+      "name": "MCM",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/MCM.png",
+      "color": "#ffeb4b"
+    },
+    {
+      "id": "t_1781042184090",
+      "name": "OS",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/ONESHOT.png",
+      "color": "#005cb3"
+    },
+    {
+      "id": "t_1781042210230",
+      "name": "TRG",
+      "logo": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/TRG.png",
+      "color": "#b36800"
+    }
+  ],
+  "maps": [
+    {
+      "id": "m_1781042225512",
+      "name": "ARTEFACT",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/artefact.png"
+    },
+    {
+      "id": "m_1781042234497",
+      "name": "ATLANTIS",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/atlantis.png"
+    },
+    {
+      "id": "m_1781042240691",
+      "name": "CERES",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/ceres.png"
+    },
+    {
+      "id": "m_1781042249134",
+      "name": "THE CLIFF",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/cliff.png"
+    },
+    {
+      "id": "m_1781042256488",
+      "name": "ENGINE",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/engine.png"
+    },
+    {
+      "id": "m_1781042265578",
+      "name": "HELIOS STATION",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/helios-station.png"
+    },
+    {
+      "id": "m_1781042273260",
+      "name": "HORIZON",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/horizon.png"
+    },
+    {
+      "id": "m_1781042281964",
+      "name": "LUNAR OUTPOST",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/lunar-outpost.png"
+    },
+    {
+      "id": "m_1781042288555",
+      "name": "OUTLAW",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/outlaw.png"
+    },
+    {
+      "id": "m_1781042295566",
+      "name": "POLARIS",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/polaris.png"
+    },
+    {
+      "id": "m_1781042301736",
+      "name": "SILVA",
+      "image": "https://raw.githubusercontent.com/Andrei-Virlan-sk/pickandban-assets/main/silva.png"
+    }
+  ],
+  "sequences": {
+    "BO1": [
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "decider",
+        "team": null
+      }
+    ],
+    "BO3": [
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "pick",
+        "team": "A"
+      },
+      {
+        "type": "pick",
+        "team": "B"
+      },
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "decider",
+        "team": null
+      }
+    ],
+    "BO5": [
+      {
+        "type": "ban",
+        "team": "A"
+      },
+      {
+        "type": "ban",
+        "team": "B"
+      },
+      {
+        "type": "pick",
+        "team": "A"
+      },
+      {
+        "type": "pick",
+        "team": "B"
+      },
+      {
+        "type": "pick",
+        "team": "A"
+      },
+      {
+        "type": "pick",
+        "team": "B"
+      },
+      {
+        "type": "decider",
+        "team": null
+      }
+    ]
+  }
+}
